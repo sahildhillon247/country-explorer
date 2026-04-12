@@ -60,7 +60,7 @@ How to Run the Project Locally
 
 Live Demo
 
-https://your-username.github.io/country-explorer/
+ https://sahildhillon247.github.io/country-explorer/
 
 ------------------------
 

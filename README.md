@@ -8,11 +8,11 @@ This project is a web application that allows users to explore country data usin
 
 Features:
 
-* 🔍 Search countries by name
-* 🌏 Filter countries by region (Asia, Europe, etc.)
-* 📊 Sort countries by population
-* 🌙 Dark mode toggle
-* 📱 Responsive layout
+* Search countries by name
+* Filter countries by region (Asia, Europe, etc.)
+* Sort countries by population
+* Dark mode toggle
+* Responsive layout
 
 ------------------------
 
